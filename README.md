@@ -8,7 +8,6 @@ No diretório do projeto, você pode executar:
 npm install
 or
 yarn install
-ou
 
 ## Para iniciar o projeto
 npm start
