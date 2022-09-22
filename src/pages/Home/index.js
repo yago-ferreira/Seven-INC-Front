@@ -53,7 +53,7 @@ class Home extends Component{
         return(
             <div className="container">
                 <h1>Funcionários</h1>
-                <ModalAdiciona />
+                {/* <ModalAdiciona /> */}
                 <DenseTable />
             </div>
         );
